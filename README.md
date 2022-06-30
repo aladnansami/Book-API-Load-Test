@@ -15,6 +15,9 @@ Breakdown the expected TPS in excel sheet and find out the actual TPS
 ## JMETER FILE
 https://github.com/aladnansami/Book-API-Load-Test/blob/main/BookAPI_Test.jmx
 
+# update and delete request  For Assignment-02
+https://github.com/aladnansami/Book-API-Load-Test/blob/main/JMeter02(Update%20And%20Delete).jmx
+
 ## Report
 <img src="https://github.com/aladnansami/Book-API-Load-Test/blob/main/Report%20Image/LoadTest.png">
 
